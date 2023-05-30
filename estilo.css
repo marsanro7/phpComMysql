@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+	margin: 10px auto 0px auto;
+	width: 800px;
+	height: 100%;
+
+}	
+.listar img{
+	margin-left: -140px;
+}	
+h4{
+	margin-bottom: -3px;	
+}
+
+#bt_adicionar, #bt_itens{
+	background: linear-gradient(to bottom, #bbc4e6 5%, #728df4 100%);
+	color: black;
+	border-radius: 4px;
+	display: inline-block;
+	cursor: pointer;
+	text-decoration: none;
+	border: 1px solid #25692A;
+	box-shadow: 10px 4px 10px rgba(0,0,0,.2);
+}	
+#bt_adicionar, #bt_itens{
+	margin-top: 10px;
+}
+.itens img{
+	width: 50px;
+	margin-left: -10px;
+}	
+	
